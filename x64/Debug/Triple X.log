@@ -1,0 +1,3 @@
+﻿  Quest for Wuuthard.cpp
+F:\Udemy Course\Triple X\Quest for Wuuthard.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Triple X.vcxproj -> F:\Udemy Course\Triple X\x64\Debug\Quest for Wuuthard.exe
